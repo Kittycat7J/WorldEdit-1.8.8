@@ -1,6 +1,6 @@
 ![WorldEdit](http://static.sk89q.com/readme/worldedit.png)
 =========
-
+1.8.8
 WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both
 single player and multiplayer, that lets you:
 
@@ -34,3 +34,4 @@ Links
 * [Issue tracker](http://youtrack.sk89q.com/issues/WORLDEDIT)
 * [Continuous integration](http://builds.enginehub.org) [![Build Status](https://travis-ci.org/sk89q/WorldEdit.svg?branch=master)](https://travis-ci.org/sk89q/WorldEdit)
 * [End-user documentation](http://wiki.sk89q.com/wiki/WorldEdit)
+
